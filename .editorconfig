@@ -8,4 +8,4 @@ trim_trailing_whitespace = false
 
 [*.rs]
 indent_style = space
-indent_size = 3
+indent_size = 4
